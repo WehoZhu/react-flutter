@@ -3,6 +3,11 @@
 
 This project demonstrates the rendering of a React.js application within a Flutter app. It is intended solely for demonstration purposes and is not recommended for commercial use. There are still several areas that require development, such as view-binding, Flutter view caching, and animation support.
 
+
+https://github.com/user-attachments/assets/a122102f-3a59-418e-9b12-6027522a662a
+
+
+
 ### jstest (Flutter Project)
 
 The **jstest** project is a Flutter application designed to execute JavaScript code in order to render Flutter views. The corresponding JavaScript files are located in the `/react-flutter/jstest/assets` directory.
